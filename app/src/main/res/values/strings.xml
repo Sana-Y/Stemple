@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Stemple</string>
+
+    <string name="schdule">すけじゅーる</string>
+    <string name="StampRally">すたんぷらりー</string>
+    <string name="quiz">くいず</string>
+    <string name="event">いべんと</string>
+    <string name="map">まっぷ</string>
+    <string name="food_shop">おみせ</string>
+
+    <string name="return01">もどる</string>
+    <string name="googlemap">ぐーぐるまっぷ</string>
+    <string name="menu_reset">menu_reset</string>
+    <string name="menu_fonttype">fonttyp</string>
+
+    <string name="menu01">めいん</string>
+    <string name="menu02">すけじゅーる</string>
+    <string name="menu03">すたんぷらりー</string>
+    <string name="menu04">くいず</string>
+    <string name="menu05">まっぷ</string>
+    <string name="menu06">おみせ</string>
+    <string name="menu07">いべんと</string>
+    <string name="title_activity_map2">Map</string>
+</resources>
